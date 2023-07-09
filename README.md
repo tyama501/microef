@@ -32,3 +32,20 @@ It uses graphic fucntios only for PC-98, so this mini game is for PC-9801/PC-982
 | 6 | Move Right |  
 | a | Attack toward moving direction<br>or Cut the tree (+10 Turns) |  
 | q | Quit |  
+
+## Variables
+| Variable | Fuction |  
+| ---- | ---- |  
+| MAP(20,10) | Map array |  
+| MDATA(9) | Character data selector |  
+| XINI, YINI | Initial coordinate for graphic |
+| TURN | Number of turn |
+| DIST | Distance of monsters used when success |
+| PX, PY | Player coordicate |  
+| PAKX, PAKY | Player Attack coordinate |
+| PH | Player Health point |
+| EX(4), EY(4) | Monster coordicate |
+| EAKX(4), EAKY(4) | Monster Attack coordinate |
+| EH(4) | Monster Health point |
+
+
