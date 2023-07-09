@@ -1,6 +1,6 @@
 # microef
-Mini game for Basic on the ELKS 
-Micro E-Forest
+Mini game for Basic on the ELKS  
+Micro E-Forest  
 
 Embeddable Linux Kernel Subset (ELKS)上のBasic向けのサンプルminiゲームです。  
 現状ELKSのBasicのグラフィック機能はPC-98向け限定なので  
