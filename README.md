@@ -14,8 +14,8 @@ ELKS is Linux-like OS that has been developed in the repository below.
 https://github.com/jbruchon/elks
 
 This is the mini game for the Basic on the ELKS.  
-Save the forest from monsters in minimum turns.
-You can also cut trees by the attack, but extra turns are added.
+Save the forest from monsters in minimum turns.  
+You can also cut trees by the attack, but extra turns are added.  
 It is an example for the Basic.  
 It uses graphic fucntios only for PC-98, so this mini game is for PC-9801/PC-9821 for now.  
 
